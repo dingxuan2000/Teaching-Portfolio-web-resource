@@ -13,6 +13,9 @@ Week3: Snap: broadcast,event Youtube link: https://youtu.be/WkYc-iwgTvE
 
 Week4: Snap: Variables Youtube link: https://youtu.be/Ru4KxIeLlu4
 
+Week5: Snap: Conditional repretition Youtube link: https://youtu.be/L6EpttrWVTY
+
+
 
 
 
