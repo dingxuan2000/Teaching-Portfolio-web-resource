@@ -15,6 +15,9 @@ Week4: Snap: Variables Youtube link: https://youtu.be/Ru4KxIeLlu4
 
 Week5: Snap: Conditional repretition Youtube link: https://youtu.be/L6EpttrWVTY
 
+Week6: Snap: If-Else Condition Youtube Link: https://youtu.be/zkZxoh7vG6c
+
+
 
 
 
