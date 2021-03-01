@@ -19,6 +19,8 @@ Week6: Snap: If-Else Condition Youtube Link: https://youtu.be/zkZxoh7vG6c
 
 Week7: Snap: Nested if/else Youtube Link: https://youtu.be/mw4v-5rR1Ys
 
+Week8: Snap: Compound Condition Youtube link: https://youtu.be/FzmhiErwiLc
+
 
 
 
